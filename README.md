@@ -1,5 +1,5 @@
 # OwO
-### ![](https://i.ytimg.com/vi/APX9DHvmX4o/maxresdefault.jpg)this cat is not mine*
+### ![](https://i.ytimg.com/vi/APX9DHvmX4o/maxresdefault.jpg)*this cat is not mine (but very cute)
 
 
 <!--

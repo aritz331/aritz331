@@ -1,5 +1,5 @@
 <!-- ### ![](https://i.ytimg.com/vi/APX9DHvmX4o/maxresdefault.jpg)*this cat is not mine (but very cute)* -->
-[![https://discord.gg/P3anuvPJmn](https://discordapp.com/api/guilds/890257451948056646/widget.png?style=banner4)](https://discord.gg/P3anuvPJmn)
+[![https://discord.gg/jcckPQwV62](https://discordapp.com/api/guilds/890257451948056646/widget.png?style=banner4)](https://discord.gg/jcckPQwV62)
 
 <!--
 **Aritz331/aritz331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,8 @@
 <!-- ### ![](https://i.ytimg.com/vi/APX9DHvmX4o/maxresdefault.jpg)*this cat is not mine (but very cute)* -->
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Aritz331&show_icons=true&theme=dark&title_color=9f00d9&border_color=d900ad)](https://discord.io/Aritz331_1)[![Top langs used](https://github-readme-stats.vercel.app/api/top-langs/?username=Aritz331&show_icons=true&theme=dark&title_color=fcba03&border_color=fcba03&card_width=496)](https://discord.io/Aritz331_1)[![https://discord.gg/jcckPQwV62](https://discordapp.com/api/guilds/890257451948056646/widget.png?style=banner4)](https://discord.gg/jcckPQwV62)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Aritz331&show_icons=true&theme=dark&title_color=9f00d9&border_color=d900ad)](https://discord.io/Aritz331_1)[![Top langs used](https://github-readme-stats.vercel.app/api/top-langs/?username=Aritz331&show_icons=true&theme=dark&title_color=fcba03&border_color=fcba03&card_width=496)](https://discord.io/Aritz331_1)
+
+[![https://discord.gg/jcckPQwV62](https://discordapp.com/api/guilds/890257451948056646/widget.png?style=banner4)](https://discord.gg/jcckPQwV62)
+
 
 <!--
 **Aritz331/aritz331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

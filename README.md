@@ -1,7 +1,7 @@
 <!-- ### ![](https://i.ytimg.com/vi/APX9DHvmX4o/maxresdefault.jpg)*this cat is not mine (but very cute)* -->
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Aritz331&show_icons=true&theme=dark&title_color=9f00d9&border_color=d900ad)](https://discord.io/Aritz331_1)[![Top langs used](https://github-readme-stats.vercel.app/api/top-langs/?username=Aritz331&show_icons=true&theme=dark&title_color=fcba03&border_color=fcba03&card_width=496)](https://discord.io/Aritz331_1)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Aritz331&show_icons=true&theme=dark&title_color=9f00d9&border_color=d900ad)](https://aritz331.github.com/discord)[![Top langs used](https://github-readme-stats.vercel.app/api/top-langs/?username=Aritz331&show_icons=true&theme=dark&title_color=fcba03&border_color=fcba03&card_width=496)](https://aritz331.github.com/discord)
 
-[![Discord banner](https://discordapp.com/api/guilds/890257451948056646/widget.png?style=banner4)](https://discord.io/Aritz331_1)
+[![Discord banner](https://discordapp.com/api/guilds/890257451948056646/widget.png?style=banner4)](https://aritz331.github.com/discord)
 
 
 <!--

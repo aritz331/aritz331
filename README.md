@@ -1,7 +1,7 @@
 <!-- ### ![](https://i.ytimg.com/vi/APX9DHvmX4o/maxresdefault.jpg)*this cat is not mine (but very cute)* -->
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Aritz331&show_icons=true&theme=github_dark&title_color=ffffff&border_color=0d1117)](https://aritz331.github.com/discord)[![Top langs used](https://github-readme-stats.vercel.app/api/top-langs/?username=Aritz331&show_icons=true&theme=github_dark&title_color=ffffff&border_color=0d1117&card_width=496)](https://aritz331.github.com/discord)
 
-[![Discord banner](https://discordapp.com/api/guilds/890257451948056646/widget.png?style=banner4)](https://aritz331.github.com/discord)
+[![Discord banner](https://img.shields.io/badge/aritz331.tk/discord-gray?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://aritz331.github.com/discord)
 
 
 <!--

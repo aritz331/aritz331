@@ -7,7 +7,7 @@
 
 [![Top langs used](https://github-readme-stats.vercel.app/api/top-langs/?username=Aritz331&show_icons=true&theme=github_dark&title_color=ffffff&border_color=0d1117&card_width=496)](https://aritz331.github.io/discord)
 
-
+// vs codium token: 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
 
 
 

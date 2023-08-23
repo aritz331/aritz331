@@ -7,12 +7,11 @@
 
 [![Top langs used](https://github-readme-stats.vercel.app/api/top-langs/?username=eltrevii&show_icons=true&theme=github_dark&title_color=ffffff&border_color=0d1117&card_width=496)](https://aritz331.github.io/discord)
 
-// vs codium token: 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
-
-
-
 
 <!--
+
+// vs codium token: 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
+
 **aritz331/aritz331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

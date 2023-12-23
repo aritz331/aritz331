@@ -1,12 +1,22 @@
-<!-- ### ![](https://i.ytimg.com/vi/APX9DHvmX4o/maxresdefault.jpg)*this cat is not mine (but very cute)* -->
-[![Discord user widget](https://lanyard-profile-readme.vercel.app/api/755797386030481469?hideStatus=true&idleMessage=%20)](https://aritz331.github.io/discord)
 
-[![Discord banner](https://img.shields.io/badge/aritz331.tk/discord-0d1117?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://aritz331.github.io/discord)
+<title>Welcome to nginx!</title>
+<style>
+html { color-scheme: light dark; }
+body { width: 35em; margin: 0 auto;
+font-family: Tahoma, Verdana, Arial, sans-serif; }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=eltrevii&show_icons=true&theme=github_dark&title_color=ffffff&border_color=0d1117)](https://aritz331.github.io/discord)
+<p>For online documentation and support please refer to
+<a href="http://nginx.org/">nginx.org</a>.<br/>
+Commercial support is available at
+<a href="http://nginx.com/">nginx.com</a>.</p>
 
-[![Top langs used](https://github-readme-stats.vercel.app/api/top-langs/?username=eltrevii&show_icons=true&theme=github_dark&title_color=ffffff&border_color=0d1117&card_width=496)](https://aritz331.github.io/discord)
-
+<p><em>Thank you for using nginx.</em></p>
 
 <!--
 
